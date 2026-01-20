@@ -161,13 +161,13 @@ edmonton-property-analysis/
 ## Author
 
 **Destanee Charrois**  
-[Your LinkedIn]([(https://www.linkedin.com/in/destanee-charrois-776aa0a2/]) | [Your Portfolio](https://www.humandesignhub.ca/portfolio) 
+[Your LinkedIn](https://www.linkedin.com/in/destanee-charrois-776aa0a2/) | [Your Portfolio](https://www.humandesignhub.ca/portfolio) 
 
 
 ## Acknowledgments
 
 - City of Edmonton for providing open access to property assessment data
-- [M2M Tech DataTalent Program] for project guidance and support
+- [M2M Tech DataTalent Program] (https://m2mtechconnect.com/programs/datatalent) for project guidance and support
 
 ## Contact
 
